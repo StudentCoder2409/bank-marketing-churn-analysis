@@ -25,5 +25,14 @@ By estimating customer value, this analysis identified approximately **$36.5M in
 
 ---
 
+## 📁 Project Structure
+
+bank-marketing-churn-analysis/
+├── churn_analysis.ipynb   # Python analysis (data cleaning + EDA)
+├── TableauChurnDashboard.png   # Final dashboard visualization
+├── README.md   # Project documentation
+
+---
+
 ## 📸 Dashboard
 ![Dashboard](TableauChurnDashboard.png)
