@@ -1,5 +1,7 @@
 # Bank Marketing Churn Analysis
 
+## This project analyzes customer churn in a banking marketing campaign to identify key drivers of non-conversion and quantify business impact.
+
 ## Overview
 This project explores customer churn behavior using a real-world banking dataset of over 41,000 records. The goal was to uncover key drivers of non-conversion and translate analytical findings into measurable business impact.
 
