@@ -18,4 +18,4 @@ By estimating customer value, this analysis identified approximately **$36.5M in
 - Interactive dashboard built in Tableau for stakeholder insights
 
 ## Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](TableauChurnDashboard.png)
